@@ -11,7 +11,7 @@ data visualization, and machine learning using Google Cloud Platform (GCP) tools
 
 # Waze User Churn Prediction
 
-![Waze Logo](https://images.app.goo.gl/5BR5Qv7JreYWyuua6)
+![Waze Logo]([https://images.app.goo.gl/5BR5Qv7JreYWyuua6](https://images.app.goo.gl/waTXXw6mF5JQywtn6))
 
 ## Project Overview
 
