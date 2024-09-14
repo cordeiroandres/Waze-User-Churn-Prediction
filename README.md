@@ -1,4 +1,7 @@
-![Google Logo]((https://images.app.goo.gl/Mv4ACevyDbGK9u3k7))
+# Waze User Churn Prediction
+
+![Data Analytics](https://www.freecodecamp.org/news/content/images/2023/04/Data-Analytics-Advanced-Certifications.jpg)
+
 # Google Advanced Data Analytics Professional Certificate Projects
 
 This repository contains the project completed as part of the Google Advanced Data Analytics Professional Certificate program. The program focuses on developing skills in data analysis, 
@@ -8,7 +11,7 @@ data visualization, and machine learning using Google Cloud Platform (GCP) tools
 
 # Waze User Churn Prediction
 
-![Waze Logo]([https://example.com/path-to-waze-logo.png](https://images.app.goo.gl/v243CDgZJ8VYCW2C7))
+![Waze Logo](https://images.app.goo.gl/5BR5Qv7JreYWyuua6)
 
 ## Project Overview
 
