@@ -64,20 +64,21 @@ For more information, refer to the [dataset on Kaggle](https://www.kaggle.com/da
 
 ## Key Results
 
-- **Best Model**: The CNN model had the highest overall performance, with an accuracy of 74.3%, precision of 67%, and an AUC-ROC of 0.737.
-- **GRU Model**: Achieved the highest recall of 72.83%, making it particularly useful in scenarios where minimizing false negatives is crucial.
-- **Random Forest and XGBoost**: Provided competitive results but were outperformed by the deep learning models.
+- **Best Model:** The CNN model achieved the highest overall performance, with an Accuracy of 76.47%, Precision of 70.78%, and an AUC-ROC of 0.7548.
+- **GRU Model:** Achieved the highest Recall of 67.91%, making it particularly useful in scenarios where minimizing false negatives is crucial.
+- **XGBoost Model:** Outperformed the other models in Precision (78.98%), Recall (78.80%), F1-Score (78.88%), and Accuracy (81.25%), demonstrating strong performance in identifying churners.
+- **Random Forest:** Provided competitive results but was outperformed by XGBoost and the deep learning models.
+
 
 ## Conclusion
 
-The deep learning models, especially the CNN and GRU, demonstrated strong predictive performance for Waze user churn. The CNN model, in particular, provides a balanced approach and can be used to deploy churn prediction strategies. By identifying at-risk users, Waze can apply targeted interventions to retain users and improve overall customer retention.
+The deep learning models, particularly the CNN and GRU, demonstrated strong predictive performance for Waze user churn. The CNN model, in particular, offers a balanced approach and is well-suited for deploying churn prediction strategies. By identifying at-risk users, Waze can apply targeted interventions to retain users and improve overall customer retention. The XGBoost model also shows excellent performance, especially in Precision and Accuracy, and could be a valuable tool in the churn prediction arsenal.
 
 ## Future Work
 
-- Fine-tune models with more hyperparameter optimization.
-- Explore additional deep learning models or ensemble methods for better performance.
-- Integrate the model predictions into Waze’s customer retention strategies.
-
+- Fine-tune models with additional hyperparameter optimization to enhance performance.
+- Explore additional deep learning models or ensemble methods to achieve better results.
+- Integrate model predictions into Waze’s customer retention strategies for more effective user management.
 ---
 
 Let me know if you'd like to add or adjust anything further!
