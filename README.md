@@ -11,7 +11,7 @@ data visualization, and machine learning using Google Cloud Platform (GCP) tools
 
 # Waze User Churn Prediction
 
-![Waze Logo]([https://images.app.goo.gl/5BR5Qv7JreYWyuua6](https://images.app.goo.gl/waTXXw6mF5JQywtn6))
+![Waze Logo](https://m-cdn.phonearena.com/images/article/125729-wide-two_940/Waze-has-hidden-a-secret-Mood-emoticon-heres-how-you-can-get-it-to-appear-on-your-phone.webp?1593973810)
 
 ## Project Overview
 
